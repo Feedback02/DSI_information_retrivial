@@ -1,4 +1,4 @@
-# DSI_information_retrivial: Two-Stage Document Retrieval System
+# DSI information retrivial: Two-Stage Document Retrieval System
 
 This repository contains the implementation of a two-stage document retrieval model designed to improve retrieval accuracy and efficiency using the MSMARCO dataset. The approach combines clustering techniques with sequence-to-sequence models to enhance document retrieval performance, particularly in large datasets.
 
